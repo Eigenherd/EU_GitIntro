@@ -1,0 +1,9 @@
+Name: EU_GitIntro
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - FlexCard/GitTutorial_ExampleFC
+    - labels/CustomLabels.labels
+VlocityTypesToFetch:
+    - FlexCard
+SalesforceTypesToFetch:
+    - CustomLabels
