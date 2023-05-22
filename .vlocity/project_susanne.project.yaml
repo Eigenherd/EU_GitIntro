@@ -1,7 +1,0 @@
-Name: Project Susanne
-ignoreDependencies: false
-VlocityDataPackKeys:
-    - VlocityCard/GitTutorial_ExampleFC
-VlocityTypesToFetch:
-    - VlocityCard
-SalesforceTypesToFetch:
